@@ -1,0 +1,2 @@
+# payload_sample.txt
+# Placeholder for src/payload/payload_sample.txt
